@@ -11,6 +11,7 @@
             "email": "jnolbertovm@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "autoload": {
         "psr-4": {
             "nolbertovilchez\\http\\": ""
