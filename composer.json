@@ -10,5 +10,10 @@
             "name": "José Nolberto Vilchez Moreno",
             "email": "jnolbertovm@gmail.com"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-4": {
+            "nolbertovilchez\\http\\": ""
+        }
+    }
 }
