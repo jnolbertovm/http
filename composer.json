@@ -1,0 +1,14 @@
+{
+    "name": "nolbertovilchez/http",
+    "description": "Class HttpError",
+    "type": "class",
+    "require": {
+        "php": "^5.5"
+    },
+    "authors": [
+        {
+            "name": "José Nolberto Vilchez Moreno",
+            "email": "jnolbertovm@gmail.com"
+        }
+    ]
+}
