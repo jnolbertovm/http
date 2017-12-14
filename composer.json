@@ -3,7 +3,7 @@
     "description": "Class HttpError",
     "type": "class",
     "require": {
-        "php": "^5.5"
+        "php": ">=5.4"
     },
     "authors": [
         {
